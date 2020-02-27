@@ -56,6 +56,11 @@
             <version>2.6.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
         <!--
             http://localhost:9011/swagger-ui.html
         -->

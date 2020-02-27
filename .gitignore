@@ -1,3 +1,9 @@
 /.idea
 /.vscode
 .DS_Store
+
+/changgou-common/target
+/changgou-eureka/target
+/changgou-service/changgou-service-goods/target
+/changgou-service/changgou-service-file/target
+/changgou-service-api/changgou-service-goods-api/target
